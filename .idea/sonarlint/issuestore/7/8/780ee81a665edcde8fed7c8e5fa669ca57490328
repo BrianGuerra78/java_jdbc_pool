@@ -1,0 +1,14 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿê¼Ûøÿÿÿÿ8Ìê«ŞÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ8Ğê«ŞÊ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„€Ö„8Óê«ŞÊ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÁØÊ¨8Óê«ŞÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë°÷Ûùÿÿÿÿ8Ôê«ŞÊ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®ÅÚğ8Øê«ŞÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ8Úê«ŞÊ0
+f
+java:S1128"IRemove this unused import 'org.bguerra.java.jdbc.util.ConexionBaseDatos'.(æì•Ì8İê«ŞÊ0
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8àê«ŞÊ0
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ãê«ŞÊ0
